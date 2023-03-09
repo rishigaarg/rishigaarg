@@ -1,3 +1,5 @@
+![logo](https://github.com/rishigaarg/rishigaarg/blob/main/Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Rishi Garg</h1>
 <h3 align="center">A passionate Software Engineer from India👨‍🔬👨‍💻</h3>
 
@@ -5,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishigaarg&label=Profile%20views&color=0e75b6&style=flat" alt="rishigaarg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishigaarg" alt="rishigaarg" /></a> </p>
 
 - 🌱 I’m currently learning **AWS Cloud Computing☁️**
 
